@@ -1,0 +1,102 @@
+[  
+   {
+      "id_podio": 1,
+      "id_expa": 189,
+      "nombre_comite": "Bahía Blanca"
+   },
+   {
+      "id_podio": 2,
+      "id_expa": 847,
+      "nombre_comite": "Buenos Aires"
+   },
+   {
+      "id_podio": 3,
+      "id_expa": 27,
+      "nombre_comite": "Buenos Aires UBA FCE"
+   },
+   {
+      "id_podio": 4,
+      "id_expa": 223,
+      "nombre_comite": "Buenos Aires USAL"
+   },
+   {
+      "id_podio": 5,
+      "id_expa": 1249,
+      "nombre_comite": "Córdoba"
+   },
+   {
+      "id_podio": 6,
+      "id_expa": 2226,
+      "nombre_comite": "Jujuy"
+   },
+   {
+      "id_podio": 7,
+      "id_expa": 278,
+      "nombre_comite": "La Plata"
+   },
+   {
+      "id_podio": 8,
+      "id_expa": 2290,
+      "nombre_comite": "LaM"
+   },
+   {
+      "id_podio": 9,
+      "id_expa": 873,
+      "nombre_comite": "Mendoza"
+   },
+   {
+      "id_podio": 10,
+      "id_expa": 2233,
+      "nombre_comite": "Misiones"
+   },
+   {
+      "id_podio": 11,
+      "id_expa": 1678,
+      "nombre_comite": "Neuquén"
+   },
+   {
+      "id_podio": 12,
+      "id_expa": 1675,
+      "nombre_comite": "Nordeste"
+   },
+   {
+      "id_podio": 13,
+      "id_expa": 1067,
+      "nombre_comite": "Rosario"
+   },
+   {
+      "id_podio": 14,
+      "id_expa": 1677,
+      "nombre_comite": "Salta"
+   },
+   {
+      "id_podio": 15,
+      "id_expa": 1759,
+      "nombre_comite": "San Juan"
+   },
+   {
+      "id_podio": 16,
+      "id_expa": 1760,
+      "nombre_comite": "Santa Fe"
+   },
+   {
+      "id_podio": 17,
+      "id_expa": 2227,
+      "nombre_comite": "Santiago del Estero"
+   },
+   {
+      "id_podio": 18,
+      "id_expa": 1761,
+      "nombre_comite": "Tucumán"
+   },
+   {
+      "id_podio": 20,
+      "id_expa": 2405,
+      "nombre_comite": "Entre Ríos"
+   },
+   {
+      "id_podio": 21,
+      "id_expa": 2406,
+      "nombre_comite": "Río Cuarto"
+   }
+]

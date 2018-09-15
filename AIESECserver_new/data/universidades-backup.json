@@ -1,0 +1,1760 @@
+[  
+   {
+      "id_ciudad": 3,
+      "id_universidad": 217439857,
+      "nombre_universidad": "Asociación Argentina de Publicidad (AAP)",
+      "c_id_podio": 4
+   },
+   {
+      "id_ciudad": 3,
+      "id_universidad": 217439914,
+      "nombre_universidad": "CAECE",
+      "c_id_podio": 3
+   },
+   {
+      "id_ciudad": 3,
+      "id_universidad": 217439801,
+      "nombre_universidad": "Centro de Estudios Organizacionales (CEO)",
+      "c_id_podio": 2
+   },
+   {
+      "id_ciudad": 3,
+      "id_universidad": 217439807,
+      "nombre_universidad": "Centro de Investigación Cinematográfica (CIC)",
+      "c_id_podio": 2
+   },
+   {
+      "id_ciudad": 7,
+      "id_universidad": 217439679,
+      "nombre_universidad": "Colegio Universitario de Periodismo CUP | Sede Córdoba",
+      "c_id_podio": 5
+   },
+   {
+      "id_ciudad": 7,
+      "id_universidad": 217439783,
+      "nombre_universidad": "Colegio Universitario IES - Córdoba",
+      "c_id_podio": 5
+   },
+   {
+      "id_ciudad": 3,
+      "id_universidad": 217439906,
+      "nombre_universidad": "Da Vinci",
+      "c_id_podio": 3
+   },
+   {
+      "id_ciudad": 3,
+      "id_universidad": 786581895,
+      "nombre_universidad": "Educación IT",
+      "c_id_podio": 2
+   },
+   {
+      "id_ciudad": 3,
+      "id_universidad": 217439790,
+      "nombre_universidad": "ESBA",
+      "c_id_podio": 2
+   },
+   {
+      "id_ciudad": 3,
+      "id_universidad": 786568323,
+      "nombre_universidad": "Escuela de fotografía Motivarte",
+      "c_id_podio": 3
+   },
+   {
+      "id_ciudad": 3,
+      "id_universidad": 786569628,
+      "nombre_universidad": "ESEADE",
+      "c_id_podio": 3
+   },
+   {
+      "id_ciudad": 3,
+      "id_universidad": 217439859,
+      "nombre_universidad": "Fundación Barceló",
+      "c_id_podio": 4
+   },
+   {
+      "id_ciudad": 3,
+      "id_universidad": 217439901,
+      "nombre_universidad": "Fundación Standard Bank",
+      "c_id_podio": 3
+   },
+   {
+      "id_ciudad": 12,
+      "id_universidad": 217439733,
+      "nombre_universidad": "Fundación Universitas - La Plata",
+      "c_id_podio": 7
+   },
+   {
+      "id_ciudad": 16,
+      "id_universidad": 217439746,
+      "nombre_universidad": "Fundación Universitas - Mendoza",
+      "c_id_podio": 9
+   },
+   {
+      "id_ciudad": 20,
+      "id_universidad": 786578881,
+      "nombre_universidad": "IAC Siglo 21 - Resistencia",
+      "c_id_podio": 12
+   },
+   {
+      "id_ciudad": 3,
+      "id_universidad": 217439855,
+      "nombre_universidad": "IES en Lenguas Vivas “Juan Ramón Fernández”",
+      "c_id_podio": 4
+   },
+   {
+      "id_ciudad": 20,
+      "id_universidad": 786575743,
+      "nombre_universidad": "IESEF Instituto de Educación Superior de Educación Física - Resistencia",
+      "c_id_podio": 12
+   },
+   {
+      "id_ciudad": 23,
+      "id_universidad": 217439923,
+      "nombre_universidad": "IESOC (Instituto de Enseñanza Superior N°28 Olga Cossettini)",
+      "c_id_podio": 13
+   },
+   {
+      "id_ciudad": 17,
+      "id_universidad": 217439684,
+      "nombre_universidad": "IFES | Sede Neuquén",
+      "c_id_podio": 11
+   },
+   {
+      "id_ciudad": 16,
+      "id_universidad": 303387137,
+      "nombre_universidad": "Instituto de Educación Física - Mendoza",
+      "c_id_podio": 9
+   },
+   {
+      "id_ciudad": 8,
+      "id_universidad": 217439697,
+      "nombre_universidad": "Instituto de Formación Docente José Manuel Estrada - Corrientes",
+      "c_id_podio": 12
+   },
+   {
+      "id_ciudad": 12,
+      "id_universidad": 217439877,
+      "nombre_universidad": "Instituto del Profesorado de las Artes tandil",
+      "c_id_podio": 7
+   },
+   {
+      "id_ciudad": 3,
+      "id_universidad": 786567881,
+      "nombre_universidad": "Instituto Federal de Telecomunicaciones (IFT)",
+      "c_id_podio": 3
+   },
+   {
+      "id_ciudad": 25,
+      "id_universidad": 313278201,
+      "nombre_universidad": "Instituto Nacional de Formación Docente - San Juan",
+      "c_id_podio": 15
+   },
+   {
+      "id_ciudad": 3,
+      "id_universidad": 217439891,
+      "nombre_universidad": "Instituto Ribera",
+      "c_id_podio": 3
+   },
+   {
+      "id_ciudad": 20,
+      "id_universidad": 786579474,
+      "nombre_universidad": "Instituto San Fernando Rey - Resistencia",
+      "c_id_podio": 12
+   },
+   {
+      "id_ciudad": 17,
+      "id_universidad": 217439682,
+      "nombre_universidad": "Instituto Séneca",
+      "c_id_podio": 11
+   },
+   {
+      "id_ciudad": 20,
+      "id_universidad": 786579185,
+      "nombre_universidad": "Instituto superior Almafuerte - Resistencia",
+      "c_id_podio": 12
+   },
+   {
+      "id_ciudad": 25,
+      "id_universidad": 313278257,
+      "nombre_universidad": "Instituto Superior Anna Pavlova - San Juan",
+      "c_id_podio": 15
+   },
+   {
+      "id_ciudad": 25,
+      "id_universidad": 313278154,
+      "nombre_universidad": "Instituto Superior Cervantes - San Juan",
+      "c_id_podio": 15
+   },
+   {
+      "id_ciudad": 25,
+      "id_universidad": 313278392,
+      "nombre_universidad": "Instituto Superior de Educación Física - San Juan",
+      "c_id_podio": 15
+   },
+   {
+      "id_ciudad": 27,
+      "id_universidad": 218565947,
+      "nombre_universidad": "Instituto superior de Educacion Física (ISEF) | Santa Fe",
+      "c_id_podio": 16
+   },
+   {
+      "id_ciudad": 8,
+      "id_universidad": 217439700,
+      "nombre_universidad": "Instituto Superior de Educación Física (ISEF) | Sede Corrientes",
+      "c_id_podio": 12
+   },
+   {
+      "id_ciudad": 12,
+      "id_universidad": 217439874,
+      "nombre_universidad": "Instituto Superior de Formación Docente y Técnica Nº10 - Tandil",
+      "c_id_podio": 7
+   },
+   {
+      "id_ciudad": 3,
+      "id_universidad": 217439841,
+      "nombre_universidad": "Instituto Superior del Profesorado 'Dr. Joaquín V. González'",
+      "c_id_podio": 4
+   },
+   {
+      "id_ciudad": 8,
+      "id_universidad": 419297604,
+      "nombre_universidad": "Instituto Superior Josefina Contte - Nordeste",
+      "c_id_podio": 12
+   },
+   {
+      "id_ciudad": 1,
+      "id_universidad": 217439881,
+      "nombre_universidad": "Instituto Superior Juan XXIII",
+      "c_id_podio": 1
+   },
+   {
+      "id_ciudad": 7,
+      "id_universidad": 217439678,
+      "nombre_universidad": "Instituto Superior Mariano Moreno",
+      "c_id_podio": 5
+   },
+   {
+      "id_ciudad": 8,
+      "id_universidad": 786580123,
+      "nombre_universidad": "Instituto superior Mariano Moreno - Corrientes",
+      "c_id_podio": 12
+   },
+   {
+      "id_ciudad": 8,
+      "id_universidad": 786581426,
+      "nombre_universidad": "Instituto Superior Nuevo Siglo - Corrientes",
+      "c_id_podio": 12
+   },
+   {
+      "id_ciudad": 1,
+      "id_universidad": 217439884,
+      "nombre_universidad": "Instituto Superior Pedro Goyena",
+      "c_id_podio": 1
+   },
+   {
+      "id_ciudad": 25,
+      "id_universidad": 313278176,
+      "nombre_universidad": "Instituto Superior San Nicolás de Bari - San Juan",
+      "c_id_podio": 15
+   },
+   {
+      "id_ciudad": 7,
+      "id_universidad": 217439777,
+      "nombre_universidad": "Instituto Superior Santo Domingo",
+      "c_id_podio": 5
+   },
+   {
+      "id_ciudad": 3,
+      "id_universidad": 217439829,
+      "nombre_universidad": "Instituto Tecnológico de Buenos Aires (ITBA)",
+      "c_id_podio": 2
+   },
+   {
+      "id_ciudad": 12,
+      "id_universidad": 217439925,
+      "nombre_universidad": "Instituto Terrero",
+      "c_id_podio": 7
+   },
+   {
+      "id_ciudad": 7,
+      "id_universidad": 217439780,
+      "nombre_universidad": "Instituto Universitario Aeronáutico (IUA) | Córdoba",
+      "c_id_podio": 5
+   },
+   {
+      "id_ciudad": 3,
+      "id_universidad": 217439813,
+      "nombre_universidad": "Instituto Universitario del Hospital Italiano",
+      "c_id_podio": 2
+   },
+   {
+      "id_ciudad": 3,
+      "id_universidad": 217439908,
+      "nombre_universidad": "Instituto Universitario Escuela Argentina de Negocios (IUEAN)",
+      "c_id_podio": 3
+   },
+   {
+      "id_ciudad": 8,
+      "id_universidad": 786575531,
+      "nombre_universidad": "Intituto Semper - Corrientes",
+      "c_id_podio": 12
+   },
+   {
+      "id_ciudad": 16,
+      "id_universidad": 217439734,
+      "nombre_universidad": "ITU Mendoza",
+      "c_id_podio": 9
+   },
+   {
+      "id_ciudad": 7,
+      "id_universidad": 217439774,
+      "nombre_universidad": "La Metro, Escuela de Diseño y Comunicación Audiovisual",
+      "c_id_podio": 5
+   },
+   {
+      "id_ciudad": 3,
+      "id_universidad": 217439799,
+      "nombre_universidad": "La Suisse CEPEC",
+      "c_id_podio": 2
+   },
+   {
+      "id_ciudad": 4,
+      "id_universidad": 786603555,
+      "nombre_universidad": "La Universidad Nacional de Catamarca",
+      "c_id_podio": 18
+   },
+   {
+      "id_ciudad": 35,
+      "id_universidad": 786605667,
+      "nombre_universidad": "La Universidad Nacional de La Pampa",
+      "c_id_podio": 1
+   },
+   {
+      "id_ciudad": 3,
+      "id_universidad": 786582379,
+      "nombre_universidad": "Lengüitas",
+      "c_id_podio": 2
+   },
+   {
+      "id_ciudad": 7,
+      "id_universidad": 304250776,
+      "nombre_universidad": "Manuel Belgrano - Córdoba",
+      "c_id_podio": 5
+   },
+   {
+      "id_ciudad": 3,
+      "id_universidad": 217439810,
+      "nombre_universidad": "Nueva Escuela de Diseño y Comunicación",
+      "c_id_podio": 2
+   },
+   {
+      "id_ciudad": 3,
+      "id_universidad": 786569199,
+      "nombre_universidad": "ORT",
+      "c_id_podio": 3
+   },
+   {
+      "id_ciudad": 1,
+      "id_universidad": 786610448,
+      "nombre_universidad": "Otras - Bahía Blanca",
+      "c_id_podio": 1
+   },
+   {
+      "id_ciudad": 3,
+      "id_universidad": 786611719,
+      "nombre_universidad": "Otras - CABA",
+      "c_id_podio": 4
+   },
+   {
+      "id_ciudad": 4,
+      "id_universidad": 786604380,
+      "nombre_universidad": "Otras - Catamarca",
+      "c_id_podio": 18
+   },
+   {
+      "id_ciudad": 20,
+      "id_universidad": 786616462,
+      "nombre_universidad": "Otras - Chaco",
+      "c_id_podio": 12
+   },
+   {
+      "id_ciudad": 30,
+      "id_universidad": 786598870,
+      "nombre_universidad": "Otras - Chubut",
+      "c_id_podio": 1
+   },
+   {
+      "id_ciudad": 5,
+      "id_universidad": 786595033,
+      "nombre_universidad": "Otras - Cipolletti",
+      "c_id_podio": 11
+   },
+   {
+      "id_ciudad": 6,
+      "id_universidad": 786596178,
+      "nombre_universidad": "Otras - Comodoro Rivadavia",
+      "c_id_podio": 1
+   },
+   {
+      "id_ciudad": 7,
+      "id_universidad": 786612169,
+      "nombre_universidad": "Otras - Córdoba",
+      "c_id_podio": 5
+   },
+   {
+      "id_ciudad": 8,
+      "id_universidad": 786616768,
+      "nombre_universidad": "Otras - Corrientes",
+      "c_id_podio": 12
+   },
+   {
+      "id_ciudad": 18,
+      "id_universidad": 786588951,
+      "nombre_universidad": "Otras - Entre Rios",
+      "c_id_podio": 20
+   },
+   {
+      "id_ciudad": 9,
+      "id_universidad": 786609381,
+      "nombre_universidad": "Otras - Formosa",
+      "c_id_podio": 12
+   },
+   {
+      "id_ciudad": 10,
+      "id_universidad": 786612687,
+      "nombre_universidad": "Otras - Jujuy",
+      "c_id_podio": 6
+   },
+   {
+      "id_ciudad": 11,
+      "id_universidad": 786613432,
+      "nombre_universidad": "Otras - La Matanza",
+      "c_id_podio": 8
+   },
+   {
+      "id_ciudad": 35,
+      "id_universidad": 786607499,
+      "nombre_universidad": "Otras - La Pampa",
+      "c_id_podio": 1
+   },
+   {
+      "id_ciudad": 12,
+      "id_universidad": 786614098,
+      "nombre_universidad": "Otras - La Plata",
+      "c_id_podio": 7
+   },
+   {
+      "id_ciudad": 13,
+      "id_universidad": 786604775,
+      "nombre_universidad": "Otras - La Rioja",
+      "c_id_podio": 18
+   },
+   {
+      "id_ciudad": 14,
+      "id_universidad": 786919240,
+      "nombre_universidad": "Otras - Lomas de Zamora",
+      "c_id_podio": 2
+   },
+   {
+      "id_ciudad": 15,
+      "id_universidad": 786604892,
+      "nombre_universidad": "Otras - Mar del Plata",
+      "c_id_podio": 7
+   },
+   {
+      "id_ciudad": 16,
+      "id_universidad": 786614711,
+      "nombre_universidad": "Otras - Mendoza",
+      "c_id_podio": 9
+   },
+   {
+      "id_ciudad": 19,
+      "id_universidad": 786615232,
+      "nombre_universidad": "Otras - Misiones",
+      "c_id_podio": 10
+   },
+   {
+      "id_ciudad": 17,
+      "id_universidad": 786616052,
+      "nombre_universidad": "Otras - Neuquén",
+      "c_id_podio": 11
+   },
+   {
+      "id_ciudad": 21,
+      "id_universidad": 786590482,
+      "nombre_universidad": "Otras - Rio Cuarto",
+      "c_id_podio": 21
+   },
+   {
+      "id_ciudad": 2,
+      "id_universidad": 786597574,
+      "nombre_universidad": "Otras - Rio Negro",
+      "c_id_podio": 11
+   },
+   {
+      "id_ciudad": 23,
+      "id_universidad": 786617121,
+      "nombre_universidad": "Otras - Rosario",
+      "c_id_podio": 13
+   },
+   {
+      "id_ciudad": 24,
+      "id_universidad": 786617590,
+      "nombre_universidad": "Otras - Salta",
+      "c_id_podio": 14
+   },
+   {
+      "id_ciudad": 25,
+      "id_universidad": 786617932,
+      "nombre_universidad": "Otras - San Juan",
+      "c_id_podio": 15
+   },
+   {
+      "id_ciudad": 26,
+      "id_universidad": 786591603,
+      "nombre_universidad": "Otras - San Luis",
+      "c_id_podio": 9
+   },
+   {
+      "id_ciudad": 22,
+      "id_universidad": 786599999,
+      "nombre_universidad": "Otras - Santa Cruz",
+      "c_id_podio": 11
+   },
+   {
+      "id_ciudad": 27,
+      "id_universidad": 786618411,
+      "nombre_universidad": "Otras - Santa Fe",
+      "c_id_podio": 16
+   },
+   {
+      "id_ciudad": 29,
+      "id_universidad": 786618811,
+      "nombre_universidad": "Otras - Santiago del Estero",
+      "c_id_podio": 17
+   },
+   {
+      "id_ciudad": 32,
+      "id_universidad": 786602916,
+      "nombre_universidad": "Otras - Tierra del Fuego",
+      "c_id_podio": 11
+   },
+   {
+      "id_ciudad": 31,
+      "id_universidad": 786619430,
+      "nombre_universidad": "Otras - Tucumán",
+      "c_id_podio": 18
+   },
+   {
+      "id_ciudad": 3,
+      "id_universidad": 217439892,
+      "nombre_universidad": "Ott College",
+      "c_id_podio": 3
+   },
+   {
+      "id_ciudad": 21,
+      "id_universidad": 786589763,
+      "nombre_universidad": "Siglo 21 (Rio Cuarto)",
+      "c_id_podio": 21
+   },
+   {
+      "id_ciudad": 8,
+      "id_universidad": 217439695,
+      "nombre_universidad": "TEC - Corrientes",
+      "c_id_podio": 12
+   },
+   {
+      "id_ciudad": 3,
+      "id_universidad": 217439837,
+      "nombre_universidad": "UADE",
+      "c_id_podio": 2
+   },
+   {
+      "id_ciudad": 3,
+      "id_universidad": 217439913,
+      "nombre_universidad": "UBA Agronomía",
+      "c_id_podio": 3
+   },
+   {
+      "id_ciudad": 3,
+      "id_universidad": 217439823,
+      "nombre_universidad": "UBA Arquitectura, Diseño y Urbanismo (FADU)",
+      "c_id_podio": 2
+   },
+   {
+      "id_ciudad": 3,
+      "id_universidad": 312282903,
+      "nombre_universidad": "UBA CBC",
+      "c_id_podio": 3
+   },
+   {
+      "id_ciudad": 3,
+      "id_universidad": 217439851,
+      "nombre_universidad": "UBA Derecho",
+      "c_id_podio": 4
+   },
+   {
+      "id_ciudad": 3,
+      "id_universidad": 217439916,
+      "nombre_universidad": "UBA Económicas (FCE)",
+      "c_id_podio": 3
+   },
+   {
+      "id_ciudad": 3,
+      "id_universidad": 217439854,
+      "nombre_universidad": "UBA Exactas y Naturales",
+      "c_id_podio": 4
+   },
+   {
+      "id_ciudad": 3,
+      "id_universidad": 217439821,
+      "nombre_universidad": "UBA Farmacia y Bioquímica",
+      "c_id_podio": 2
+   },
+   {
+      "id_ciudad": 3,
+      "id_universidad": 217439825,
+      "nombre_universidad": "UBA Filosofía y Letras",
+      "c_id_podio": 2
+   },
+   {
+      "id_ciudad": 3,
+      "id_universidad": 217439910,
+      "nombre_universidad": "UBA Ingeniería",
+      "c_id_podio": 3
+   },
+   {
+      "id_ciudad": 3,
+      "id_universidad": 217439912,
+      "nombre_universidad": "UBA Medicina",
+      "c_id_podio": 3
+   },
+   {
+      "id_ciudad": 3,
+      "id_universidad": 217439849,
+      "nombre_universidad": "UBA Odontología",
+      "c_id_podio": 4
+   },
+   {
+      "id_ciudad": 3,
+      "id_universidad": 217439909,
+      "nombre_universidad": "UBA Psicología",
+      "c_id_podio": 3
+   },
+   {
+      "id_ciudad": 3,
+      "id_universidad": 217439793,
+      "nombre_universidad": "UBA Sociales (FSOC)",
+      "c_id_podio": 2
+   },
+   {
+      "id_ciudad": 3,
+      "id_universidad": 217439847,
+      "nombre_universidad": "UBA Veterinaria",
+      "c_id_podio": 4
+   },
+   {
+      "id_ciudad": 23,
+      "id_universidad": 217439839,
+      "nombre_universidad": "UCEL",
+      "c_id_podio": 13
+   },
+   {
+      "id_ciudad": 3,
+      "id_universidad": 217439835,
+      "nombre_universidad": "UCEMA",
+      "c_id_podio": 2
+   },
+   {
+      "id_ciudad": 3,
+      "id_universidad": 217439865,
+      "nombre_universidad": "UCES - Buenos Aires",
+      "c_id_podio": 4
+   },
+   {
+      "id_ciudad": 23,
+      "id_universidad": 217439770,
+      "nombre_universidad": "UCES - Rosario",
+      "c_id_podio": 13
+   },
+   {
+      "id_ciudad": 20,
+      "id_universidad": 786575593,
+      "nombre_universidad": "UCES - Sede Resistencia",
+      "c_id_podio": 12
+   },
+   {
+      "id_ciudad": 3,
+      "id_universidad": 786582976,
+      "nombre_universidad": "UCES (Olivos)",
+      "c_id_podio": 4
+   },
+   {
+      "id_ciudad": 3,
+      "id_universidad": 786583451,
+      "nombre_universidad": "UCES (San Isidro)",
+      "c_id_podio": 4
+   },
+   {
+      "id_ciudad": 15,
+      "id_universidad": 217439693,
+      "nombre_universidad": "UFASTA - Mar del Plata",
+      "c_id_podio": 7
+   },
+   {
+      "id_ciudad": 35,
+      "id_universidad": 786606594,
+      "nombre_universidad": "UFASTA (Santa Rosa)",
+      "c_id_podio": 1
+   },
+   {
+      "id_ciudad": 20,
+      "id_universidad": 786579867,
+      "nombre_universidad": "UNCAUS Universidad Nacional del Chaco Austral - Saenz Peña, Chaco",
+      "c_id_podio": 12
+   },
+   {
+      "id_ciudad": 3,
+      "id_universidad": 217439828,
+      "nombre_universidad": "Universidad Abierta Interamericana (UAI) - Buenos Aires",
+      "c_id_podio": 2
+   },
+   {
+      "id_ciudad": 23,
+      "id_universidad": 217447412,
+      "nombre_universidad": "Universidad Abierta Interamericana (UAI) - Rosario",
+      "c_id_podio": 13
+   },
+   {
+      "id_ciudad": 18,
+      "id_universidad": 786586152,
+      "nombre_universidad": "Universidad Adventista del Plata (UAPAR)",
+      "c_id_podio": 13
+   },
+   {
+      "id_ciudad": 12,
+      "id_universidad": 217439924,
+      "nombre_universidad": "Universidad Alas Peruanas",
+      "c_id_podio": 7
+   },
+   {
+      "id_ciudad": 15,
+      "id_universidad": 217439694,
+      "nombre_universidad": "Universidad Atlántida - Mar del Plata",
+      "c_id_podio": 7
+   },
+   {
+      "id_ciudad": 3,
+      "id_universidad": 217439863,
+      "nombre_universidad": "Universidad Austral - Buenos Aires",
+      "c_id_podio": 4
+   },
+   {
+      "id_ciudad": 23,
+      "id_universidad": 217439671,
+      "nombre_universidad": "Universidad Austral - Rosario",
+      "c_id_podio": 13
+   },
+   {
+      "id_ciudad": 18,
+      "id_universidad": 786584501,
+      "nombre_universidad": "Universidad Autónoma de Entre Ríos (UADER)",
+      "c_id_podio": 20
+   },
+   {
+      "id_ciudad": 7,
+      "id_universidad": 217439779,
+      "nombre_universidad": "Universidad Blas Pascal",
+      "c_id_podio": 5
+   },
+   {
+      "id_ciudad": 3,
+      "id_universidad": 217439869,
+      "nombre_universidad": "Universidad Católica Argentina (UCA) - Buenos Aires",
+      "c_id_podio": 4
+   },
+   {
+      "id_ciudad": 16,
+      "id_universidad": 217439749,
+      "nombre_universidad": "Universidad Católica Argentina (UCA) - Mendoza",
+      "c_id_podio": 9
+   },
+   {
+      "id_ciudad": 7,
+      "id_universidad": 217439784,
+      "nombre_universidad": "Universidad Católica de Córdoba",
+      "c_id_podio": 5
+   },
+   {
+      "id_ciudad": 25,
+      "id_universidad": 313278135,
+      "nombre_universidad": "Universidad Católica de Cuyo. San Juan",
+      "c_id_podio": 15
+   },
+   {
+      "id_ciudad": 12,
+      "id_universidad": 217439889,
+      "nombre_universidad": "Universidad Católica de La Plata",
+      "c_id_podio": 7
+   },
+   {
+      "id_ciudad": 24,
+      "id_universidad": 217439667,
+      "nombre_universidad": "Universidad Católica de Salta (UCASAL)",
+      "c_id_podio": 14
+   },
+   {
+      "id_ciudad": 27,
+      "id_universidad": 218718847,
+      "nombre_universidad": "Universidad Católica de Santa Fe (UCSF)",
+      "c_id_podio": 16
+   },
+   {
+      "id_ciudad": 29,
+      "id_universidad": 562137553,
+      "nombre_universidad": "Universidad Católica de Santiago del Estero (UCSE)",
+      "c_id_podio": 17
+   },
+   {
+      "id_ciudad": 35,
+      "id_universidad": 786606238,
+      "nombre_universidad": "Universidad Católica Santa Rosa",
+      "c_id_podio": 1
+   },
+   {
+      "id_ciudad": 10,
+      "id_universidad": 562134844,
+      "nombre_universidad": "Universidad Catolica Santiago del Estero DASS",
+      "c_id_podio": 6
+   },
+   {
+      "id_ciudad": 16,
+      "id_universidad": 217439752,
+      "nombre_universidad": "Universidad Champagnat",
+      "c_id_podio": 9
+   },
+   {
+      "id_ciudad": 3,
+      "id_universidad": 302457027,
+      "nombre_universidad": "Universidad de Belgrano (UB)",
+      "c_id_podio": 2
+   },
+   {
+      "id_ciudad": 16,
+      "id_universidad": 217439744,
+      "nombre_universidad": "Universidad de Congreso",
+      "c_id_podio": 9
+   },
+   {
+      "id_ciudad": 3,
+      "id_universidad": 217439897,
+      "nombre_universidad": "Universidad de Flores (UFLO) - Buenos Aires",
+      "c_id_podio": 3
+   },
+   {
+      "id_ciudad": 5,
+      "id_universidad": 217439681,
+      "nombre_universidad": "Universidad de Flores (UFLO) - Comahue",
+      "c_id_podio": 11
+   },
+   {
+      "id_ciudad": 3,
+      "id_universidad": 786569987,
+      "nombre_universidad": "Universidad de Flores (UFLO) - San Miguel",
+      "c_id_podio": 3
+   },
+   {
+      "id_ciudad": 3,
+      "id_universidad": 217439826,
+      "nombre_universidad": "Universidad de la Marina Mercante (UdeMM)",
+      "c_id_podio": 2
+   },
+   {
+      "id_ciudad": 26,
+      "id_universidad": 786591053,
+      "nombre_universidad": "Universidad de La Punta",
+      "c_id_podio": 9
+   },
+   {
+      "id_ciudad": 16,
+      "id_universidad": 217439757,
+      "nombre_universidad": "Universidad de Mendoza",
+      "c_id_podio": 9
+   },
+   {
+      "id_ciudad": 11,
+      "id_universidad": 786574055,
+      "nombre_universidad": "Universidad de Moreno",
+      "c_id_podio": 8
+   },
+   {
+      "id_ciudad": 11,
+      "id_universidad": 217439896,
+      "nombre_universidad": "Universidad de Morón",
+      "c_id_podio": 8
+   },
+   {
+      "id_ciudad": 3,
+      "id_universidad": 217439831,
+      "nombre_universidad": "Universidad de Palermo (UP)",
+      "c_id_podio": 2
+   },
+   {
+      "id_ciudad": 3,
+      "id_universidad": 217439867,
+      "nombre_universidad": "Universidad de San Andrés (UDESA)",
+      "c_id_podio": 4
+   },
+   {
+      "id_ciudad": 3,
+      "id_universidad": 217439669,
+      "nombre_universidad": "Universidad de San Isidro (USI)",
+      "c_id_podio": 4
+   },
+   {
+      "id_ciudad": 31,
+      "id_universidad": 217439690,
+      "nombre_universidad": "Universidad de San Pablo Tucuman",
+      "c_id_podio": 18
+   },
+   {
+      "id_ciudad": 16,
+      "id_universidad": 217439759,
+      "nombre_universidad": "Universidad del Aconcagua",
+      "c_id_podio": 9
+   },
+   {
+      "id_ciudad": 30,
+      "id_universidad": 786598359,
+      "nombre_universidad": "Universidad del Chubut",
+      "c_id_podio": 1
+   },
+   {
+      "id_ciudad": 12,
+      "id_universidad": 217439887,
+      "nombre_universidad": "Universidad del Este (UDE)",
+      "c_id_podio": 7
+   },
+   {
+      "id_ciudad": 3,
+      "id_universidad": 217439905,
+      "nombre_universidad": "Universidad del Museo Social Argentino (UMSA)",
+      "c_id_podio": 3
+   },
+   {
+      "id_ciudad": 31,
+      "id_universidad": 217439687,
+      "nombre_universidad": "Universidad del Norte Santo Tomás de Aquino | Sede Tucumán",
+      "c_id_podio": 18
+   },
+   {
+      "id_ciudad": 11,
+      "id_universidad": 786574543,
+      "nombre_universidad": "Universidad del Oeste",
+      "c_id_podio": 8
+   },
+   {
+      "id_ciudad": 3,
+      "id_universidad": 217439871,
+      "nombre_universidad": "Universidad del Salvador (USAL) - Buenos Aires",
+      "c_id_podio": 4
+   },
+   {
+      "id_ciudad": 8,
+      "id_universidad": 786580529,
+      "nombre_universidad": "Universidad del Salvador USAL - sede Corrientes",
+      "c_id_podio": 12
+   },
+   {
+      "id_ciudad": 34,
+      "id_universidad": 786619898,
+      "nombre_universidad": "Universidad en Buenos Aires (Provincia)",
+      "c_id_podio": 2
+   },
+   {
+      "id_ciudad": 34,
+      "id_universidad": 786620270,
+      "nombre_universidad": "Universidad en Catamarca (Provincia)",
+      "c_id_podio": 18
+   },
+   {
+      "id_ciudad": 34,
+      "id_universidad": 786620637,
+      "nombre_universidad": "Universidad en Chaco (Provincia)",
+      "c_id_podio": 12
+   },
+   {
+      "id_ciudad": 34,
+      "id_universidad": 786621013,
+      "nombre_universidad": "Universidad en Chubut (Provincia)",
+      "c_id_podio": 1
+   },
+   {
+      "id_ciudad": 34,
+      "id_universidad": 786621271,
+      "nombre_universidad": "Universidad en Córdoba (Provincia)",
+      "c_id_podio": 5
+   },
+   {
+      "id_ciudad": 34,
+      "id_universidad": 786621687,
+      "nombre_universidad": "Universidad en Corrientes (Provincia)",
+      "c_id_podio": 12
+   },
+   {
+      "id_ciudad": 34,
+      "id_universidad": 786622308,
+      "nombre_universidad": "Universidad en Entre Ríos (Provincia)",
+      "c_id_podio": 21
+   },
+   {
+      "id_ciudad": 34,
+      "id_universidad": 786622718,
+      "nombre_universidad": "Universidad en Formosa (Provincia)",
+      "c_id_podio": 12
+   },
+   {
+      "id_ciudad": 34,
+      "id_universidad": 786623155,
+      "nombre_universidad": "Universidad en Jujuy (Provincia)",
+      "c_id_podio": 6
+   },
+   {
+      "id_ciudad": 34,
+      "id_universidad": 786623675,
+      "nombre_universidad": "Universidad en La Pampa (Provincia)",
+      "c_id_podio": 1
+   },
+   {
+      "id_ciudad": 34,
+      "id_universidad": 786624262,
+      "nombre_universidad": "Universidad en La Rioja (Provincia)",
+      "c_id_podio": 18
+   },
+   {
+      "id_ciudad": 34,
+      "id_universidad": 786624612,
+      "nombre_universidad": "Universidad en Mendoza (Provincia)",
+      "c_id_podio": 9
+   },
+   {
+      "id_ciudad": 34,
+      "id_universidad": 786625112,
+      "nombre_universidad": "Universidad en Misiones (Provincia)",
+      "c_id_podio": 10
+   },
+   {
+      "id_ciudad": 34,
+      "id_universidad": 786625435,
+      "nombre_universidad": "Universidad en Neuquén (Provincia)",
+      "c_id_podio": 11
+   },
+   {
+      "id_ciudad": 34,
+      "id_universidad": 786625817,
+      "nombre_universidad": "Universidad en Río Negro (Provincia)",
+      "c_id_podio": 1
+   },
+   {
+      "id_ciudad": 34,
+      "id_universidad": 786626065,
+      "nombre_universidad": "Universidad en Salta (Provincia)",
+      "c_id_podio": 14
+   },
+   {
+      "id_ciudad": 34,
+      "id_universidad": 786626296,
+      "nombre_universidad": "Universidad en San Juan (Provincia)",
+      "c_id_podio": 15
+   },
+   {
+      "id_ciudad": 34,
+      "id_universidad": 786626777,
+      "nombre_universidad": "Universidad en San Luis (Provincia)",
+      "c_id_podio": 9
+   },
+   {
+      "id_ciudad": 34,
+      "id_universidad": 786627620,
+      "nombre_universidad": "Universidad en Santa Cruz (Provincia)",
+      "c_id_podio": 11
+   },
+   {
+      "id_ciudad": 34,
+      "id_universidad": 786628047,
+      "nombre_universidad": "Universidad en Santa Fe (Provincia)",
+      "c_id_podio": 13
+   },
+   {
+      "id_ciudad": 34,
+      "id_universidad": 786628514,
+      "nombre_universidad": "Universidad en Santiago del Estero (Provincia)",
+      "c_id_podio": 17
+   },
+   {
+      "id_ciudad": 34,
+      "id_universidad": 786628908,
+      "nombre_universidad": "Universidad en Tierra del Fuego (Provincia)",
+      "c_id_podio": 11
+   },
+   {
+      "id_ciudad": 34,
+      "id_universidad": 786629093,
+      "nombre_universidad": "Universidad en Tucumán (Provincia)",
+      "c_id_podio": 18
+   },
+   {
+      "id_ciudad": 3,
+      "id_universidad": 217439860,
+      "nombre_universidad": "Universidad Favaloro",
+      "c_id_podio": 4
+   },
+   {
+      "id_ciudad": 16,
+      "id_universidad": 217439753,
+      "nombre_universidad": "Universidad Juan Agustín Maza",
+      "c_id_podio": 9
+   },
+   {
+      "id_ciudad": 3,
+      "id_universidad": 312282886,
+      "nombre_universidad": "Universidad Kennedy",
+      "c_id_podio": 3
+   },
+   {
+      "id_ciudad": 20,
+      "id_universidad": 786576264,
+      "nombre_universidad": "Universidad La cuenca del plata - sede Resistencia",
+      "c_id_podio": 12
+   },
+   {
+      "id_ciudad": 3,
+      "id_universidad": 217439900,
+      "nombre_universidad": "Universidad Maimónides",
+      "c_id_podio": 3
+   },
+   {
+      "id_ciudad": 3,
+      "id_universidad": 217439803,
+      "nombre_universidad": "Universidad Nacional de Avellaneda (UNDAV)",
+      "c_id_podio": 2
+   },
+   {
+      "id_ciudad": 7,
+      "id_universidad": 217439788,
+      "nombre_universidad": "Universidad Nacional de Córdoba",
+      "c_id_podio": 5
+   },
+   {
+      "id_ciudad": 7,
+      "id_universidad": 304251000,
+      "nombre_universidad": "Universidad Nacional de Córdoba FACULTAD DE ARQUITECTURA",
+      "c_id_podio": 5
+   },
+   {
+      "id_ciudad": 7,
+      "id_universidad": 304251063,
+      "nombre_universidad": "Universidad Nacional de Córdoba FACULTAD DE ARTES",
+      "c_id_podio": 5
+   },
+   {
+      "id_ciudad": 7,
+      "id_universidad": 304251137,
+      "nombre_universidad": "Universidad Nacional de Córdoba FACULTAD DE CS AGROPECUARIAS",
+      "c_id_podio": 5
+   },
+   {
+      "id_ciudad": 7,
+      "id_universidad": 304251221,
+      "nombre_universidad": "Universidad Nacional de Córdoba FACULTAD DE CS ECONÓMICAS",
+      "c_id_podio": 5
+   },
+   {
+      "id_ciudad": 7,
+      "id_universidad": 304250905,
+      "nombre_universidad": "Universidad Nacional de Córdoba FACULTAD DE CS QUIMICAS",
+      "c_id_podio": 5
+   },
+   {
+      "id_ciudad": 7,
+      "id_universidad": 304250863,
+      "nombre_universidad": "Universidad Nacional de Córdoba FACULTAD DE DERECHO",
+      "c_id_podio": 5
+   },
+   {
+      "id_ciudad": 7,
+      "id_universidad": 304251293,
+      "nombre_universidad": "Universidad Nacional de Córdoba FACULTAD DE LENGUAS",
+      "c_id_podio": 5
+   },
+   {
+      "id_ciudad": 7,
+      "id_universidad": 304251350,
+      "nombre_universidad": "Universidad Nacional de Córdoba FACULTAD DE MAT, ASTRONOMIA Y FISICA",
+      "c_id_podio": 5
+   },
+   {
+      "id_ciudad": 7,
+      "id_universidad": 304250952,
+      "nombre_universidad": "Universidad Nacional de Córdoba FACULTAD DE MEDICINA",
+      "c_id_podio": 5
+   },
+   {
+      "id_ciudad": 7,
+      "id_universidad": 304251408,
+      "nombre_universidad": "Universidad Nacional de Córdoba FACULTAD DE ODONTOLOGIA",
+      "c_id_podio": 5
+   },
+   {
+      "id_ciudad": 7,
+      "id_universidad": 304251477,
+      "nombre_universidad": "Universidad Nacional de Córdoba FACULTAD DE PSICOLOGIA",
+      "c_id_podio": 5
+   },
+   {
+      "id_ciudad": 7,
+      "id_universidad": 304251538,
+      "nombre_universidad": "Universidad Nacional de Córdoba FILOSOFIA Y HUMANIDADES",
+      "c_id_podio": 5
+   },
+   {
+      "id_ciudad": 16,
+      "id_universidad": 217439764,
+      "nombre_universidad": "Universidad Nacional de Cuyo",
+      "c_id_podio": 9
+   },
+   {
+      "id_ciudad": 16,
+      "id_universidad": 217439762,
+      "nombre_universidad": "Universidad Nacional de Cuyo - Sede San Rafael",
+      "c_id_podio": 9
+   },
+   {
+      "id_ciudad": 23,
+      "id_universidad": 685333108,
+      "nombre_universidad": "Universidad Nacional de Entre Ríos",
+      "c_id_podio": 20
+   },
+   {
+      "id_ciudad": 18,
+      "id_universidad": 786585654,
+      "nombre_universidad": "Universidad Nacional de Entre Ríos (UNER)",
+      "c_id_podio": 20
+   },
+   {
+      "id_ciudad": 9,
+      "id_universidad": 786608563,
+      "nombre_universidad": "Universidad Nacional de Formosa",
+      "c_id_podio": 12
+   },
+   {
+      "id_ciudad": 10,
+      "id_universidad": 627572557,
+      "nombre_universidad": "Universidad Nacional de Jujuy (UNJu)",
+      "c_id_podio": 6
+   },
+   {
+      "id_ciudad": 19,
+      "id_universidad": 681478034,
+      "nombre_universidad": "Universidad Nacional de la Cuenca del Plata sede Misiones",
+      "c_id_podio": 10
+   },
+   {
+      "id_ciudad": 11,
+      "id_universidad": 217439894,
+      "nombre_universidad": "Universidad Nacional de La Matanza (UNLaM)",
+      "c_id_podio": 8
+   },
+   {
+      "id_ciudad": 22,
+      "id_universidad": 786599218,
+      "nombre_universidad": "Universidad Nacional de la Patagonia Austral",
+      "c_id_podio": 11
+   },
+   {
+      "id_ciudad": 1,
+      "id_universidad": 465560930,
+      "nombre_universidad": "Universidad Nacional de la Patagonia San Juan Bosco",
+      "c_id_podio": 1
+   },
+   {
+      "id_ciudad": 6,
+      "id_universidad": 786595736,
+      "nombre_universidad": "Universidad Nacional de la Patagonia San Juan Bosco (Comodoro Rivadavia)",
+      "c_id_podio": 1
+   },
+   {
+      "id_ciudad": 30,
+      "id_universidad": 786597840,
+      "nombre_universidad": "Universidad Nacional de la Patagonia San Juan Bosco (Trelew)",
+      "c_id_podio": 11
+   },
+   {
+      "id_ciudad": 12,
+      "id_universidad": 217439888,
+      "nombre_universidad": "Universidad Nacional de La Plata",
+      "c_id_podio": 7
+   },
+   {
+      "id_ciudad": 13,
+      "id_universidad": 786604445,
+      "nombre_universidad": "Universidad Nacional de La Rioja",
+      "c_id_podio": 18
+   },
+   {
+      "id_ciudad": 3,
+      "id_universidad": 217439816,
+      "nombre_universidad": "Universidad Nacional de Lanús (UNLa)",
+      "c_id_podio": 4
+   },
+   {
+      "id_ciudad": 3,
+      "id_universidad": 217439814,
+      "nombre_universidad": "Universidad Nacional de las Artes (UNA)",
+      "c_id_podio": 2
+   },
+   {
+      "id_ciudad": 14,
+      "id_universidad": 217439818,
+      "nombre_universidad": "Universidad Nacional de Lomas de Zamora (UNLZ)",
+      "c_id_podio": 2
+   },
+   {
+      "id_ciudad": 11,
+      "id_universidad": 217439846,
+      "nombre_universidad": "Universidad Nacional de Luján",
+      "c_id_podio": 8
+   },
+   {
+      "id_ciudad": 15,
+      "id_universidad": 217439872,
+      "nombre_universidad": "Universidad Nacional de Mar del Plata",
+      "c_id_podio": 7
+   },
+   {
+      "id_ciudad": 19,
+      "id_universidad": 562137018,
+      "nombre_universidad": "Universidad Nacional de Misiones",
+      "c_id_podio": 10
+   },
+   {
+      "id_ciudad": 3,
+      "id_universidad": 217439794,
+      "nombre_universidad": "Universidad Nacional de Quilmes (UNQUI)",
+      "c_id_podio": 2
+   },
+   {
+      "id_ciudad": 21,
+      "id_universidad": 786590062,
+      "nombre_universidad": "Universidad Nacional de Rio Cuarto",
+      "c_id_podio": 21
+   },
+   {
+      "id_ciudad": 33,
+      "id_universidad": 786600324,
+      "nombre_universidad": "Universidad Nacional de Rio Negro",
+      "c_id_podio": 1
+   },
+   {
+      "id_ciudad": 2,
+      "id_universidad": 786596911,
+      "nombre_universidad": "Universidad Nacional de Rio Negro (Bariloche)",
+      "c_id_podio": 11
+   },
+   {
+      "id_ciudad": 23,
+      "id_universidad": 217439702,
+      "nombre_universidad": "Universidad Nacional de Rosario",
+      "c_id_podio": 13
+   },
+   {
+      "id_ciudad": 23,
+      "id_universidad": 217439724,
+      "nombre_universidad": "Universidad Nacional de Rosario - Abogacía",
+      "c_id_podio": 13
+   },
+   {
+      "id_ciudad": 23,
+      "id_universidad": 217439712,
+      "nombre_universidad": "Universidad Nacional de Rosario - Agronomía",
+      "c_id_podio": 13
+   },
+   {
+      "id_ciudad": 23,
+      "id_universidad": 217439773,
+      "nombre_universidad": "Universidad Nacional de Rosario - Arquitectura",
+      "c_id_podio": 13
+   },
+   {
+      "id_ciudad": 23,
+      "id_universidad": 217439711,
+      "nombre_universidad": "Universidad Nacional de Rosario - Bioquímica y Farmacia",
+      "c_id_podio": 13
+   },
+   {
+      "id_ciudad": 23,
+      "id_universidad": 217439729,
+      "nombre_universidad": "Universidad Nacional de Rosario - Ciencia Política y Relaciones Internacionales",
+      "c_id_podio": 13
+   },
+   {
+      "id_ciudad": 23,
+      "id_universidad": 217439717,
+      "nombre_universidad": "Universidad Nacional de Rosario - Ciencias Económicas y Estadísticas",
+      "c_id_podio": 13
+   },
+   {
+      "id_ciudad": 23,
+      "id_universidad": 217439707,
+      "nombre_universidad": "Universidad Nacional de Rosario - Fonoaudiología",
+      "c_id_podio": 13
+   },
+   {
+      "id_ciudad": 23,
+      "id_universidad": 217439723,
+      "nombre_universidad": "Universidad Nacional de Rosario - Humanidades",
+      "c_id_podio": 13
+   },
+   {
+      "id_ciudad": 23,
+      "id_universidad": 217439715,
+      "nombre_universidad": "Universidad Nacional de Rosario - Ingeniería y Agrimensura",
+      "c_id_podio": 13
+   },
+   {
+      "id_ciudad": 23,
+      "id_universidad": 217439708,
+      "nombre_universidad": "Universidad Nacional de Rosario - Medicina y Enfermería",
+      "c_id_podio": 13
+   },
+   {
+      "id_ciudad": 23,
+      "id_universidad": 217439727,
+      "nombre_universidad": "Universidad Nacional de Rosario - Música",
+      "c_id_podio": 13
+   },
+   {
+      "id_ciudad": 23,
+      "id_universidad": 217439706,
+      "nombre_universidad": "Universidad Nacional de Rosario - Odontología",
+      "c_id_podio": 13
+   },
+   {
+      "id_ciudad": 23,
+      "id_universidad": 217439718,
+      "nombre_universidad": "Universidad Nacional de Rosario - Psicología",
+      "c_id_podio": 13
+   },
+   {
+      "id_ciudad": 23,
+      "id_universidad": 217439710,
+      "nombre_universidad": "Universidad Nacional de Rosario - Veterinaria",
+      "c_id_podio": 13
+   },
+   {
+      "id_ciudad": 24,
+      "id_universidad": 217439917,
+      "nombre_universidad": "Universidad Nacional de Salta",
+      "c_id_podio": 14
+   },
+   {
+      "id_ciudad": 25,
+      "id_universidad": 217439739,
+      "nombre_universidad": "Universidad Nacional de San Juan",
+      "c_id_podio": 15
+   },
+   {
+      "id_ciudad": 25,
+      "id_universidad": 313278032,
+      "nombre_universidad": "Universidad Nacional de San Juan - Facultad de Arquitectura, Urbanismo y Diseño",
+      "c_id_podio": 15
+   },
+   {
+      "id_ciudad": 25,
+      "id_universidad": 313278003,
+      "nombre_universidad": "Universidad Nacional de San Juan - Facultad de Ciencias Sociales",
+      "c_id_podio": 15
+   },
+   {
+      "id_ciudad": 25,
+      "id_universidad": 313278097,
+      "nombre_universidad": "Universidad Nacional de San Juan - Facultad de Exactas, Físicas y Naturales",
+      "c_id_podio": 15
+   },
+   {
+      "id_ciudad": 25,
+      "id_universidad": 313278069,
+      "nombre_universidad": "Universidad Nacional de San Juan - Facultad de Filosofía, Humanidades y Arte",
+      "c_id_podio": 15
+   },
+   {
+      "id_ciudad": 25,
+      "id_universidad": 313277976,
+      "nombre_universidad": "Universidad Nacional de San Juan - Facultad de Ingeniería",
+      "c_id_podio": 15
+   },
+   {
+      "id_ciudad": 16,
+      "id_universidad": 685325083,
+      "nombre_universidad": "Universidad Nacional de San Luis",
+      "c_id_podio": 9
+   },
+   {
+      "id_ciudad": 26,
+      "id_universidad": 786590792,
+      "nombre_universidad": "Universidad Nacional de San Luis",
+      "c_id_podio": 9
+   },
+   {
+      "id_ciudad": 29,
+      "id_universidad": 562137363,
+      "nombre_universidad": "Universidad Nacional de Santiago del Estero (UNSE)",
+      "c_id_podio": 17
+   },
+   {
+      "id_ciudad": 32,
+      "id_universidad": 786602404,
+      "nombre_universidad": "Universidad Nacional de Tierra del Fuego",
+      "c_id_podio": 11
+   },
+   {
+      "id_ciudad": 3,
+      "id_universidad": 217439844,
+      "nombre_universidad": "Universidad Nacional de Tres de Febrero (UNTREF)",
+      "c_id_podio": 4
+   },
+   {
+      "id_ciudad": 31,
+      "id_universidad": 217439692,
+      "nombre_universidad": "Universidad Nacional de Tucumán",
+      "c_id_podio": 18
+   },
+   {
+      "id_ciudad": 31,
+      "id_universidad": 217439652,
+      "nombre_universidad": "Universidad Nacional de Tucumán (UNT) | Tucumán",
+      "c_id_podio": 18
+   },
+   {
+      "id_ciudad": 17,
+      "id_universidad": 217439922,
+      "nombre_universidad": "Universidad Nacional del Comahue",
+      "c_id_podio": 11
+   },
+   {
+      "id_ciudad": 2,
+      "id_universidad": 786596658,
+      "nombre_universidad": "Universidad Nacional del Comahue (Bariloche)",
+      "c_id_podio": 11
+   },
+   {
+      "id_ciudad": 5,
+      "id_universidad": 786594257,
+      "nombre_universidad": "Universidad Nacional del Comahue (Cipolletti)",
+      "c_id_podio": 11
+   },
+   {
+      "id_ciudad": 23,
+      "id_universidad": 217439767,
+      "nombre_universidad": "Universidad Nacional del Litoral (UNL) - Rosario",
+      "c_id_podio": 13
+   },
+   {
+      "id_ciudad": 27,
+      "id_universidad": 217439651,
+      "nombre_universidad": "Universidad Nacional del Litoral (UNL) - Santa Fe",
+      "c_id_podio": 16
+   },
+   {
+      "id_ciudad": 8,
+      "id_universidad": 217439705,
+      "nombre_universidad": "Universidad Nacional del Nordeste (UNNE)",
+      "c_id_podio": 12
+   },
+   {
+      "id_ciudad": 1,
+      "id_universidad": 217439885,
+      "nombre_universidad": "Universidad Nacional del Sur",
+      "c_id_podio": 1
+   },
+   {
+      "id_ciudad": 16,
+      "id_universidad": 217439741,
+      "nombre_universidad": "Universidad Nacional Provincia de San Luis",
+      "c_id_podio": 9
+   },
+   {
+      "id_ciudad": 20,
+      "id_universidad": 786575897,
+      "nombre_universidad": "Universidad Popular - Resistencia",
+      "c_id_podio": 12
+   },
+   {
+      "id_ciudad": 3,
+      "id_universidad": 217439796,
+      "nombre_universidad": "Universidad Siglo 21 - Buenos Aires",
+      "c_id_podio": 2
+   },
+   {
+      "id_ciudad": 7,
+      "id_universidad": 217439786,
+      "nombre_universidad": "Universidad Siglo 21 - Córdoba",
+      "c_id_podio": 5
+   },
+   {
+      "id_ciudad": 8,
+      "id_universidad": 217439696,
+      "nombre_universidad": "Universidad Siglo 21 - Corrientes",
+      "c_id_podio": 12
+   },
+   {
+      "id_ciudad": 17,
+      "id_universidad": 217439919,
+      "nombre_universidad": "Universidad Siglo 21 - Neuquén",
+      "c_id_podio": 11
+   },
+   {
+      "id_ciudad": 24,
+      "id_universidad": 217439699,
+      "nombre_universidad": "Universidad Siglo 21 - Salta",
+      "c_id_podio": 14
+   },
+   {
+      "id_ciudad": 31,
+      "id_universidad": 217439685,
+      "nombre_universidad": "Universidad Siglo 21 - Tucumán",
+      "c_id_podio": 18
+   },
+   {
+      "id_ciudad": 4,
+      "id_universidad": 786604280,
+      "nombre_universidad": "Universidad Siglo 21 (Catamarca)",
+      "c_id_podio": 18
+   },
+   {
+      "id_ciudad": 25,
+      "id_universidad": 313278524,
+      "nombre_universidad": "Universidad Siglo 21 | Sede San Juan",
+      "c_id_podio": 15
+   },
+   {
+      "id_ciudad": 1,
+      "id_universidad": 217439883,
+      "nombre_universidad": "Universidad Tecnológica Nacional (UTN) - Bahía Blanca",
+      "c_id_podio": 1
+   },
+   {
+      "id_ciudad": 3,
+      "id_universidad": 217439805,
+      "nombre_universidad": "Universidad Tecnológica Nacional (UTN) - Buenos Aires",
+      "c_id_podio": 2
+   },
+   {
+      "id_ciudad": 7,
+      "id_universidad": 304251626,
+      "nombre_universidad": "Universidad Tecnológica Nacional (UTN) - Córdoba",
+      "c_id_podio": 5
+   },
+   {
+      "id_ciudad": 16,
+      "id_universidad": 217439738,
+      "nombre_universidad": "Universidad Tecnológica Nacional (UTN) - Mendoza",
+      "c_id_podio": 9
+   },
+   {
+      "id_ciudad": 17,
+      "id_universidad": 217439686,
+      "nombre_universidad": "Universidad Tecnológica Nacional (UTN) - Neuquén",
+      "c_id_podio": 11
+   },
+   {
+      "id_ciudad": 20,
+      "id_universidad": 217439701,
+      "nombre_universidad": "Universidad Tecnológica Nacional (UTN) - Resistencia",
+      "c_id_podio": 12
+   },
+   {
+      "id_ciudad": 27,
+      "id_universidad": 217439656,
+      "nombre_universidad": "Universidad Tecnológica Nacional (UTN) - Santa Fe",
+      "c_id_podio": 16
+   },
+   {
+      "id_ciudad": 31,
+      "id_universidad": 217439691,
+      "nombre_universidad": "Universidad Tecnológica Nacional (UTN) - Tucumán",
+      "c_id_podio": 18
+   },
+   {
+      "id_ciudad": 3,
+      "id_universidad": 217439834,
+      "nombre_universidad": "Universidad Torcuato Di Tella (UTDT)",
+      "c_id_podio": 2
+   },
+   {
+      "id_ciudad": 17,
+      "id_universidad": 217439683,
+      "nombre_universidad": "Univesidad Cátolica de Salta | Sede Neuquén",
+      "c_id_podio": 11
+   },
+   {
+      "id_ciudad": 3,
+      "id_universidad": 786582713,
+      "nombre_universidad": "UNNOBA",
+      "c_id_podio": 2
+   },
+   {
+      "id_ciudad": 3,
+      "id_universidad": 217439895,
+      "nombre_universidad": "UNSAM (Universidad Nacional de San Martín)",
+      "c_id_podio": 3
+   },
+   {
+      "id_ciudad": 7,
+      "id_universidad": 217439673,
+      "nombre_universidad": "UPC | Escuela Superior de Artes Aplicadas Lino Enea Spillimbergo",
+      "c_id_podio": 5
+   },
+   {
+      "id_ciudad": 7,
+      "id_universidad": 217439677,
+      "nombre_universidad": "UPC | Escuela Superior de Turismo y Hoteleria Marcelo Montes Pacheco",
+      "c_id_podio": 5
+   },
+   {
+      "id_ciudad": 7,
+      "id_universidad": 217439674,
+      "nombre_universidad": "UPC | Instituto de Educación Superior Dr. Domingo Cabred",
+      "c_id_podio": 5
+   },
+   {
+      "id_ciudad": 7,
+      "id_universidad": 217439676,
+      "nombre_universidad": "UPC | IPEF",
+      "c_id_podio": 5
+   },
+   {
+      "id_ciudad": 7,
+      "id_universidad": 217439672,
+      "nombre_universidad": "UPC | Universidad Provincial de Córdoba",
+      "c_id_podio": 5
+   },
+   {
+      "id_ciudad": 3,
+      "id_universidad": 217439842,
+      "nombre_universidad": "Vatel | Sede Buenos Aires",
+      "c_id_podio": 4
+   },
+   {
+      "id_ciudad": 24,
+      "id_universidad": 217439670,
+      "nombre_universidad": "Vatel | Sede Salta",
+      "c_id_podio": 14
+   },
+   {
+      "id_ciudad": 10,
+      "id_universidad": 788364790,
+      "nombre_universidad": "Universidad Nacional de Santiago del Estero (UNSE) - Sede Jujuy",
+      "c_id_podio": 6
+   }
+]

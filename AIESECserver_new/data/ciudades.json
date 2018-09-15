@@ -1,0 +1,138 @@
+[
+	{
+		"id_ciudad": 1,
+		"nombre_ciudad": "Bahía Blanca"
+	},
+	{
+		"id_ciudad": 2,
+		"nombre_ciudad": "Bariloche"
+	},
+	{
+		"id_ciudad": 3,
+		"nombre_ciudad": "CABA"
+	},
+	{
+		"id_ciudad": 11,
+		"nombre_ciudad": "Gran Buenos Aires Oeste"
+	},
+	{
+		"id_ciudad": 4,
+		"nombre_ciudad": "Catamarca"
+	},
+	{
+		"id_ciudad": 5,
+		"nombre_ciudad": "Cipolletti"
+	},
+	{
+		"id_ciudad": 6,
+		"nombre_ciudad": "Comodoro Rivadavia"
+	},
+	{
+		"id_ciudad": 7,
+		"nombre_ciudad": "Córdoba"
+	},
+	{
+		"id_ciudad": 8,
+		"nombre_ciudad": "Corrientes"
+	},
+	{
+		"id_ciudad": 9,
+		"nombre_ciudad": "Formosa"
+	},
+	{
+		"id_ciudad": 10,
+		"nombre_ciudad": "Jujuy"
+	},
+	{
+		"id_ciudad": 12,
+		"nombre_ciudad": "La Plata"
+	},
+	{
+		"id_ciudad": 13,
+		"nombre_ciudad": "La Rioja"
+	},
+	{
+		"id_ciudad": 14,
+		"nombre_ciudad": "Lomas de Zamora"
+	},
+	{
+		"id_ciudad": 15,
+		"nombre_ciudad": "Mar del Plata"
+	},
+	{
+		"id_ciudad": 16,
+		"nombre_ciudad": "Mendoza"
+	},
+	{
+		"id_ciudad": 17,
+		"nombre_ciudad": "Neuquén"
+	},
+	{
+		"id_ciudad": 18,
+		"nombre_ciudad": "Parana"
+	},
+	{
+		"id_ciudad": 19,
+		"nombre_ciudad": "Posadas"
+	},
+	{
+		"id_ciudad": 20,
+		"nombre_ciudad": "Resistencia"
+	},
+	{
+		"id_ciudad": 21,
+		"nombre_ciudad": "Rio Cuarto"
+	},
+	{
+		"id_ciudad": 22,
+		"nombre_ciudad": "Rio Gallegos"
+	},
+	{
+		"id_ciudad": 23,
+		"nombre_ciudad": "Rosario"
+	},
+	{
+		"id_ciudad": 24,
+		"nombre_ciudad": "Salta"
+	},
+	{
+		"id_ciudad": 25,
+		"nombre_ciudad": "San Juan"
+	},
+	{
+		"id_ciudad": 26,
+		"nombre_ciudad": "San Luis"
+	},
+	{
+		"id_ciudad": 27,
+		"nombre_ciudad": "Santa Fe"
+	},
+	{
+		"id_ciudad": 29,
+		"nombre_ciudad": "Santiago del Estero"
+	},
+	{
+		"id_ciudad": 30,
+		"nombre_ciudad": "Trelew"
+	},
+	{
+		"id_ciudad": 31,
+		"nombre_ciudad": "Tucumán"
+	},
+	{
+		"id_ciudad": 32,
+		"nombre_ciudad": "Ushuaia"
+	},
+	{
+		"id_ciudad": 33,
+		"nombre_ciudad": "Viedma"
+	},
+	{
+		"id_ciudad": 34,
+		"nombre_ciudad": "Otras ciudades"
+	},
+	{
+		"id_ciudad": 35,
+		"nombre_ciudad": "Santa Rosa (La Pampa)"
+	}
+]
