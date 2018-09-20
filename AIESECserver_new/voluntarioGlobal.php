@@ -1,9 +1,9 @@
 <!DOCTYPE html>
-<?php $dir =  "HTTPS://".$_SERVER["HTTP_HOST"]."/AIESECserver_new/" ;
-        include_once('./classes/token.php');
-?>
-<?php //$dir =  "HTTP://".$_SERVER["HTTP_HOST"]."/" ;
+<?php //$dir =  "HTTPS://".$_SERVER["HTTP_HOST"]."/AIESECserver_new/" ;
         //include_once('./classes/token.php');
+?>
+<?php $dir =  "HTTP://".$_SERVER["HTTP_HOST"]."/" ;
+        include_once('./classes/token.php');
 ?>
 <html>
     <head>
@@ -39,7 +39,7 @@
         
         <div id="podio_form" class="container">
             <!-- https://podio.com/webforms/15417841/1047073 -->
-            <form class="webforms" id="webform" data-locale="es_ES" enctype="multipart/form-data" action="#" accept-charset="UTF-8" method="post">
+            <form class="webforms" id="webform" data-locale="es_ES" enctype="multipart/form-data" action="https://podio.com/webforms/15417841/1047073" accept-charset="UTF-8" method="post">
                 <input name="utf8" type="hidden" value="&#x2713;" />
                 <input type="hidden" name="authenticity_token" value="Y+SDydTPHkXYiIfCmCGdVdOL0x6xgiPrEstUgg8lT1ncORFmsZ2/u6D/ijZP/SVb7yQCGwGthCGQwZk9dbLneQ=="/>
                 <h1 class="webforms__heading">Voluntario Global</h1>
@@ -73,7 +73,7 @@
                               <p>La contraseña debe contener al menos: <strong>Una mayúscula, una minúscula, un número y ser mínimo de 8 caracteres.</strong></p>
                         </div>
                         <div class="webforms__field text-field">
-                            <input type="password" name="fields[clave]" id="field_clave" class="form-control" required="required" pattern="(?=.*\d)(?=.*[a-z])(?=.*[A-Z]).{6,}"/>
+                            <input type="password" name="fields[clave]" id="field_clave" class="form-control" required="required" />
                         </div>
                         
                     </div>
@@ -286,281 +286,11 @@
         <script src="<?php echo $dir ?>js/webforms.js" async="async"></script>
         <script src="<?php echo $dir ?>js/select_cu.js" async="async"></script>
         <script type="text/javascript">
-                var mapping;
-                function mapLC(uni) {
-                    return mapping[uni];
-                }
-                
-                function getLeads(path_leads_json) {
-                    var jqxhr = jQuery.getJSON(path_leads_json, function() {
-                            mapping = jQuery.parseJSON(jqxhr.responseText);
-                        })
-                        .done(function() {
-                            console.log( "getLeads success" );
-                        })
-                        .fail(function() {
-                            // console.log( "getLeads error" );
-                        })
-                        .always(function() {
-                            // console.log( "getLeads complete" );
-                        });
-                }
-        </script>
-        <script type="text/javascript">
-
-			var validacionVista = false;
-            $(document).ready(function(){
-                var usuarioExistente = false;
-                var estadoRequest = false;
-                var result;
-
-                // < Generate LC >
-                // AAP - Asociación Argentina de Publicidad --> Buenos Aires USAL
-                /*$("#field_local-committee").val('4');
-
-                var myJsonString = getLeads('leads.json')
-                $("#field_universidad").change(function($) {
-                    jQuery("#field_local-committee").val(mapLC(jQuery("#field_universidad").val()));
-                });
-
-                if($('#field_local-committee').val() == ""){
-                    $('#field_local-committee').val('19');
-                }*/
-                // </-- Generate LC -->
-
-                // Control del submit del form
-                $("#webform").submit(function(evt) {
-                    //debugger;
-                    // Add
-                    window.document.getElementById("field_nombre-completo").value = window.document.getElementById("field_titulo").value + " " + window.document.getElementById("field_apellido").value;
-                    // Verifica si existe usuario y el estado de respuesta del servidor
-                
-                    var lOk = verificarParaSubmit();                
-                    if ( lOk == false){
-                        evt.preventDefault();
-                        return false;
-                    }
-
-                });
-                
-                $('#btnEnviar').click(function(){
-                    debugger;
-					validacionVista = ValidarClave($("#field_clave").val()) 
-                                        && ValidarMail($("#field_e-mail").val())
-                                        && ($('#webform')[0].checkValidity() || $('#webform')[0].checkValidity);
-                    if(validacionVista){
-                        var url = "<?php echo $dir ?>insertExpa.php";
-                        lstC = document.getElementById("field_como-te-enteraste-de-esta-oportunidad");
-                        var comoConocio = lstC.options[lstC.selectedIndex].innerHTML;
-                        var parametros = {                 
-                            "first_name"        : $("#field_titulo").val(),
-                            "last_name"         : $("#field_apellido").val(),
-                            "email"             : $("#field_e-mail").val(),
-                            "clave"             : $("#field_clave").val(),
-                            "phone"             : $("#field_telefono").val(),  
-                            "valUniversidad"    : $("#field_universidad").val(),
-                            "referencia"        : comoConocio
-                        };
-                        var debug_first_name        = $("#field_titulo").val();
-                        var debug_last_name        = $("#field_apellido").val();
-                        var debug_email           = $("#field_e-mail").val();
-                        var debug_clave             = $("#field_clave").val();
-                        var debug_phone             = $("#field_telefono").val(); 
-                        var debug_valUniversidad    = $("#field_universidad").val();
-                        var debug_referencia        = comoConocio;
-                        
-                        
-                        $.ajax({                      
-                            data : parametros,                      
-                            url: url, 
-                            type: "post",
-                            beforeSend:function(objeto){ 
-                                    $('#carga').css('display','block');
-                                    var elmnt = document.getElementById("podio_form");
-                                    elmnt.scrollIntoView();
-                                    $('#webform').css('display','none');
-                                },                             
-                            success: function(respuesta)             
-                            {                        
-                            var result = respuesta;
-                            
-                                                    
-                            $('#webform').attr('action', 'https://podio.com/webforms/15417841/1047073');
-                            evaluaResponse( respuesta.trim() );                        
-                            setTimeout(function(){ 
-                                $('#carga').css('display','none');
-                                $("#webform").trigger('submit');
-                                }, 3000);
-                                                       
-                            },                      
-                            error: function (Error, textStatus, xhr) {
-                                console.log("error" + xhr.status());    
-                                $('#webform').css('display','none');
-                                $('#error-expa').css('display','block');
-                            },
-                            complete: function(xhr, status){
-                                var urlslack = "https://hooks.slack.com/services/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";
-                                if(status!="success")
-                                {
-                                    var contentslack = {"text": "Um novo Lead! E o status é: " + status + "\n" + 
-                                        debug_first_name + "\n" +
-                                        debug_last_name + "\n" +
-                                        debug_email + "\n" +
-                                        debug_clave + "\n" +
-                                        debug_phone + "\n" +
-                                        debug_valUniversidad + "\n" +
-                                        debug_referencia };
-                                } 
-                                else 
-                                {
-                                    var contentslack = {"text": "Um novo Lead! E o status é: " + status}; 
-                                }
-                                $.post(urlslack,JSON.stringify(contentslack)); 
-                            }
-                        });
-                    }
-                });
-
-                function verificarParaSubmit(){                
-                    if (usuarioExistente && estadoRequest == false ){                                               
-                        mostrarMensaje();                   
-                        return false;           
-
-                    } else if (estadoRequest == false){
-                        mostrarMensaje();               
-                        return false;
-
-                    }else{
-                        return true;
-                    }
-
-                }
-
-                function evaluaResponse(_response){                                
-                    switch(_response){                            
-                        case "422":                                        
-                            usuarioExistente = true;
-                            estadoRequest = false;                            
-                            break;
-                        case "200":                    
-                            usuarioExistente = false;
-                            estadoRequest = true;
-                            break;
-                        default :                        
-                            estadoRequest = false;
-                    } 
-
-                }
-
-                function mostrarMensaje(){                               
-                    if( usuarioExistente ) {
-                        $('#resultado').css('display','block');                    
-                    }
-                }
-                function isEmail(email) {
-                    var regex = /^([a-zA-Z0-9_.+-])+\@(([a-zA-Z0-9-])+\.)+([a-zA-Z0-9]{2,4})+$/;
-                    return regex.test(email);
-                }
-                function ValidarMail (text){
-                    var mailv = text;
-
-                    if (!(isEmail(mailv))) {
-                        $("#idMalMail").html("<p style='color:red;border: 2px solid red;text-align:center'><strong>Insira un e-mail valido</strong></p>");
-                        var elmnt = document.getElementById("field_e-mail");
-                        elmnt.scrollIntoView();
-                        setTimeout(function(){ $("#idMalMail").html(""); }, 5000);
-                        return false;
-                    }
-                    else {
-                        return true;
-                    }
-                }
-                function ValidarClave (text){
-                    var pswd = text;
-                    if ( pswd.length < 8 ) {
-
-                        $("#idMalClave").html("<p style='color:red;border: 2px solid red;text-align:center'><strong>La contraseña deben tener minimo 8 digitos.</strong></p>");
-                        var elmnt = document.getElementById("field_clave");
-                        elmnt.scrollIntoView();
-                        setTimeout(function(){ $("#idMalClave").html(""); }, 5000);                       
-                        return false;
-
-                    } else if (!( pswd.match(/[A-Z]/)) ) {
-
-                        $("#idMalClave").html("<p style='color:red;border: 2px solid red;text-align:center'><strong>La contraseña debe tener mayusculas.</strong></p>");
-                        var elmnt = document.getElementById("field_clave");
-                        elmnt.scrollIntoView();
-                        setTimeout(function(){ $("#idMalClave").html(""); }, 5000);                              
-                        return false;
-
-                    } else if (!( pswd.match(/[a-z]/)) ) {
-
-                        $("#idMalClave").html("<p style='color:red;border: 2px solid red;text-align:center'><strong>La contraseña debe tener minusculas.</strong></p>");
-                        var elmnt = document.getElementById("field_clave");
-                        elmnt.scrollIntoView();
-                        setTimeout(function(){ $("#idMalClave").html(""); }, 5000);                               
-                        return false;
-
-                    } else if (!( pswd.match(/\d/) )) {
-                        $("#idMalClave").html("<p style='color:red;border: 2px solid red;text-align:center'><strong>La contraseña deben tener numeros.</strong></p>");
-                        var elmnt = document.getElementById("field_clave");
-                        elmnt.scrollIntoView();
-                        setTimeout(function(){ $("#idMalClave").html(""); }, 5000);                                  
-                        return false;
-                    } else{              
-
-                        return true;
-                    }
-                };
-        });
-    </script>
-    <script type="text/javascript">
-                
-        $(document).ready(function(){
-
-            $("#webform").submit(function(evt) {
-                //debugger;
-                if(!validacionVista){
-                    evt.preventDefault();
-                    return;
-                }
-                if($('#webform')[0].checkValidity() || $('#webform')[0].checkValidity){
-                    $('#podio_form')[0].scrollIntoView();
-                    window.document.getElementById("field_nombre-completo").value = window.document.getElementById("field_titulo").value + " " + window.document.getElementById("field_apellido").value;						
-                    var podioFormToken = $('#podioFormToken').attr('value');
-                    
-                    $.ajax({
-                        type: 'POST',
-                        data: { podioFormToken: podioFormToken },
-                        url: "<?php echo $dir ?>classes/tokenCheck.php",
-                        //async: false,
-                        success: function(data) {
-                            if(data == 0){									
-                                evt.preventDefault();
-                            }
-                            else{									
-                                $('#webforms__fields-container').css('display', 'none');
-                                $('#btnEnviar').css('display', 'none');
-                                $('#carga').css('display', 'block');
-                            }
-                        },
-                        failure: function(){
-                            console.log("failure");
-                        },
-                        error: function(){
-                            console.log("error");
-                        }
-                    });
-                    
-                }
-                else{
-                    evt.preventDefault();
-                    $("#btnEnviar")[0].disabled = false;
-                }
-            });
-
-        });
-
-    </script>
+			var urlInsertExpa = "<?php echo $dir ?>insertExpa.php";
+			var urlTokenCheck = "<?php echo $dir ?>classes/tokenCheck.php";
+		</script>
+        <script type="text/javascript" src="<?php echo $dir ?>js/jquery.validate.min.js"></script>
+        <script type="text/javascript" src="<?php echo $dir ?>js/insertExpaPodio.js"></script>
+        <script type="text/javascript" src="<?php echo $dir ?>js/validateConfig.js"></script>
     </body>
 </html>
