@@ -288,6 +288,9 @@
         <script type="text/javascript">
 			var urlInsertExpa = "<?php echo $dir ?>insertExpa.php";
 			var urlTokenCheck = "<?php echo $dir ?>classes/tokenCheck.php";
+			if($('#field_ciudad').children().length == 1){
+				loadCiudades();
+			}
 		</script>
         <script type="text/javascript" src="<?php echo $dir ?>js/jquery.validate.min.js"></script>
         <script type="text/javascript" src="<?php echo $dir ?>js/insertExpaPodio.js"></script>
