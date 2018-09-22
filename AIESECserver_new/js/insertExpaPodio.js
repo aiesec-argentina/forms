@@ -29,19 +29,22 @@ function insertExpa(){
 ****************************************************/
 
 // Submit Podio form after a token check.
-function handlePodioSubmit(){					
+function handlePodioSubmitWithToken(){				
 	$('#podio_form')[0].scrollIntoView();			
 	var podioFormToken = $('#podioFormToken').attr('value');
+	var tokenCheck;
 	$.ajax({
 		type: 'POST',
 		data: { podioFormToken: podioFormToken },
 		url: urlTokenCheck,
+		async: false,
 		success: function(data) {
-			(data == 0)? 
-				evt.preventDefault() 
-				: showLoadingScreen();				
+			tokenCheck = (data != 0);
+			if(tokenCheck)
+				showLoadingScreen();				
 		}
 	});
+	return tokenCheck;
 }	
 
 /****************************************************
