@@ -35,7 +35,7 @@ $(document).ready(function() {
 	})
 
 	$.validator.addMethod('password', function(value, element){
-		return this.optional(element) || /^([a-z]+[0-9]+)|([0-9]+[a-z]+)/i.test(value);
+		return this.optional(element) || /^(?=.*[A-Z])(?=.*[a-z])(?=.*[0-9]).{8,}$/.test(value);
 	});
 
 	$.validator.addMethod('email', function(value, element){
