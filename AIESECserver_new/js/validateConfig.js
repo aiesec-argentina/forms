@@ -27,8 +27,10 @@ $(document).ready(function() {
 			"fields[duracion-preferida-del-intercambio]": { required: "Se requiere duración preferida del intercambio." },
 		},
 		submitHandler: function(form){
-			if(!$("#webform").valid()){return;}
-			handlePodioSubmit();
+			if(!$("#webform").valid() || !handlePodioSubmitWithToken())
+			{
+				return;
+			}
 			insertExpa();
 			form.submit();
 		}
