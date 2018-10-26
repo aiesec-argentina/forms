@@ -157,7 +157,7 @@
                     <div class="form-group hidden"> <!-- LC -->
                         <label class="webforms__label" for="field_local-committee">Comité Local:</label>
                         <div class="webforms__field category-field">
-                            <select name="fields[local-committee]" id="field_local-committee" class="form-control">
+                            <select name="fields[local-committee]" id="field_local-committee" class="form-control" wsp-business="">
                             </select>
                         </div>
                     </div> 
