@@ -27,15 +27,15 @@ function insertExpa(){
 /****************************************************
 *	Podio submit.									*
 ****************************************************/
-
 // Submit Podio form after a token check.
 function handlePodioSubmitWithToken(){				
 	$('#podio_form')[0].scrollIntoView();			
 	var podioFormToken = $('#podioFormToken').attr('value');
+	var wspbusiness = $('#field_local-committee').attr('Wsp-Business');
 	var tokenCheck;
 	$.ajax({
 		type: 'POST',
-		data: { podioFormToken: podioFormToken },
+		data: { podioFormToken: podioFormToken, /*wspbusiness: wspbusiness*/ },
 		url: urlTokenCheck,
 		async: false,
 		success: function(data) {
@@ -46,7 +46,6 @@ function handlePodioSubmitWithToken(){
 	});
 	return tokenCheck;
 }	
-
 /****************************************************
 *	Helpers functions.								*
 ****************************************************/	
