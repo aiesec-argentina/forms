@@ -40,7 +40,12 @@ var loadComite = function (id_universidad) {
 		var id_comite = valor.c_id_podio;
 		$("#field_local-committee").append("<option value='" + valor.c_id_podio + "'>" + valor.c_id_podio + "</option>");
 		$("#field_local-committee").value = id_comite;
+		loadWspBusiness(id_comite);
 	});
+};
+
+var loadWspBusiness = function (id_comite) {
+	$("#field_local-committee").attr("Wsp-Business", comites[id_comite-1].wspbusiness);
 };
 
 $(document).ready(function () 
