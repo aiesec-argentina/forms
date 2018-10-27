@@ -7,4 +7,5 @@ if(Token::check($_POST['podioFormToken'])){
 else{
 	echo 0;
 }
+$_SESSION['wspbusiness'] = $_POST['wspbusiness']
 ?>

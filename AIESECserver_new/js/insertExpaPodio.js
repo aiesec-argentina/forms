@@ -31,11 +31,14 @@ function insertExpa(){
 function handlePodioSubmitWithToken(){				
 	$('#podio_form')[0].scrollIntoView();			
 	var podioFormToken = $('#podioFormToken').attr('value');
-	var wspbusiness = $('#field_local-committee').attr('Wsp-Business');
+	var wspbusiness = $('select[wsp-business]').attr('wsp-business');
 	var tokenCheck;
 	$.ajax({
 		type: 'POST',
-		data: { podioFormToken: podioFormToken, /*wspbusiness: wspbusiness*/ },
+		data: { 
+			podioFormToken: podioFormToken,
+			wspbusiness: wspbusiness
+		},
 		url: urlTokenCheck,
 		async: false,
 		success: function(data) {
