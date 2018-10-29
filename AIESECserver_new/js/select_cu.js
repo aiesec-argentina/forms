@@ -50,6 +50,7 @@ var loadComite = function (id_universidad) {
 	var comite = searchIntoJson(universidades, "id_universidad", id_universidad);
 	var comiteWsp = searchIntoJsonForComites(comites, "id_podio", comite[0].c_id_podio);
 	$('select[wsp-business]').attr('wsp-business', comiteWsp[0].wspbusiness);
+	$("#field_comite-num").value = comiteWsp[0].wspbusiness;
 	$.each(comite, function (i, valor) {
 		$("#field_local-committee").empty();
 		var id_comite = valor.c_id_podio;
