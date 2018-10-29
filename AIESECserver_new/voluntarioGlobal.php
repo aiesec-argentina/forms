@@ -161,6 +161,12 @@
                             </select>
                         </div>
                     </div> 
+		    <div class="form-group hidden"> <!-- Wsp Business -->
+                        <label class="webforms__label" for="field_comite-num">WhatsApp:</label>
+                        <div class="webforms__field category-field">
+                            <input type="text" name="fields[comite-num]" id="field_comite-num" value=""/> 
+                        </div>
+                    </div> 
                     <div class="form-group"> <!-- Otra Universidad -->
                         <label class="webforms__label" for="field_otra-universidad">Otra universidad:</label>
                         <div class="webforms__field text-field">
